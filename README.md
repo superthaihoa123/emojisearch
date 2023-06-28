@@ -1,18 +1,1 @@
-Emoji Search
----
-
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
-
-
-Install
----
-
-`npm install`
-
-
-
-Usage
----
-
-`npm start`
+Emogi search trong ReactJS là một tính năng cho phép bạn tìm kiếm và hiển thị các biểu tượng cảm xúc (emoji) trong ứng dụng web được phát triển bằng ReactJS. Tính năng này cho phép người dùng nhập từ khóa hoặc biểu tượng cụ thể để tìm kiếm và chọn các biểu tượng cảm xúc để sử dụng trong ứng dụng của họ.
